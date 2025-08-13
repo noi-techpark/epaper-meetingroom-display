@@ -1,3 +1,5 @@
+[![REUSE Compliance](https://github.com/noi-techpark/epaper-meetingroom-display/actions/workflows/reuse-lint.yml/badge.svg)](https://github.com/noi-techpark/opendatahub-docs/wiki/REUSE#badges)
+
 # ePaper meetingromm display
 
 This repository contains the source code of the ePaper meetinroom display that allows to display:
